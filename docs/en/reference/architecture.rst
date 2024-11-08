@@ -37,9 +37,9 @@ of the underlying DBAL and Persistence packages. The Doctrine codebase
 is split into these packages for a few reasons:
 
 
--  To make things more maintainable and decoupled
--  To allow you to use the code in Doctrine Persistence and Collections without the ORM or DBAL
--  To allow you to use the DBAL without the ORM
+-  to make things more maintainable and decoupled
+-  to allow you to use the code in Doctrine Persistence and Collections without the ORM or DBAL
+-  to allow you to use the DBAL without the ORM
 
 Collection, Event Manager and Persistence
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
